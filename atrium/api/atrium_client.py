@@ -12,7 +12,7 @@ class AtriumClient(object):
         self,
         api_key,
         client_id,
-        environment="https://vestibule.mx.com",
+        environment="https://api.mx.com",
         proxy=None,
         proxy_user=None,
         proxy_pass=None,
